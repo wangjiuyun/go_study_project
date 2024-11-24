@@ -1,3 +1,2 @@
-#忽略的文件。下面最好忽略掉
+### IntelliJ IDEA ###
 .idea
-version.go
